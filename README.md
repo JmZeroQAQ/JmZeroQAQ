@@ -8,7 +8,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/neovim-57A143?&style=for-the-badge&logo=neovim&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/lua-2C2D72?&style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00599C?&style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-2C2D72?&style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/arch-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white"/>
 </p>
